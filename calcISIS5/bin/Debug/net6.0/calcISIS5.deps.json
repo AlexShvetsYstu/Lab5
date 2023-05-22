@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calcISIS5/1.0.0": {
+        "runtime": {
+          "calcISIS5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcISIS5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
